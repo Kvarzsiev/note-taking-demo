@@ -5,12 +5,12 @@ As I need this to be ready soon I will do it using things I'm already used to wo
 
 
 
-            PostgreSQL
-                |
-                |
-                |
-        Adonis Typescript API
-          /              \
-        /                 \
-      /                    \
-Flutter Mobile            AngularJS Web Front-end
+                        PostgreSQL
+                            |
+                            |
+                            |
+                    Adonis Typescript API
+                      /              \
+                    /                 \
+        Flutter Mobile            AngularJS Web Front-end
+
